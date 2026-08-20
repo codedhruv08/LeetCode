@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/codedhruv08/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/codedhruv08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/codedhruv08/LeetCode/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/codedhruv08/LeetCode/tree/master/0486-predict-the-winner) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/codedhruv08/LeetCode/tree/master/0031-next-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codedhruv08/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codedhruv08/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
