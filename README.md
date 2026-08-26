@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/codedhruv08/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/codedhruv08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/codedhruv08/LeetCode/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/codedhruv08/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/codedhruv08/LeetCode/tree/master/0486-predict-the-winner) |
 | [1331-rank-transform-of-an-array](https://github.com/codedhruv08/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codedhruv08/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/codedhruv08/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codedhruv08/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
