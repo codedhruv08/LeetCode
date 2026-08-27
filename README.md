@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/codedhruv08/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0486-predict-the-winner](https://github.com/codedhruv08/LeetCode/tree/master/0486-predict-the-winner) |
 | [1927-sum-game](https://github.com/codedhruv08/LeetCode/tree/master/1927-sum-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codedhruv08/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/codedhruv08/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codedhruv08/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/codedhruv08/LeetCode/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codedhruv08/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
