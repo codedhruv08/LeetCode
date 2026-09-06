@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/codedhruv08/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/codedhruv08/LeetCode/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/codedhruv08/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/codedhruv08/LeetCode/tree/master/0486-predict-the-winner) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codedhruv08/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/codedhruv08/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/codedhruv08/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0115-distinct-subsequences](https://github.com/codedhruv08/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/codedhruv08/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codedhruv08/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/codedhruv08/LeetCode/tree/master/1927-sum-game) |
