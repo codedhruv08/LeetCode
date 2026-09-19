@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/codedhruv08/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0486-predict-the-winner](https://github.com/codedhruv08/LeetCode/tree/master/0486-predict-the-winner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/codedhruv08/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/codedhruv08/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1927-sum-game](https://github.com/codedhruv08/LeetCode/tree/master/1927-sum-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/codedhruv08/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/codedhruv08/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/codedhruv08/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/codedhruv08/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
