@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/codedhruv08/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/codedhruv08/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/codedhruv08/LeetCode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/codedhruv08/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/codedhruv08/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/codedhruv08/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/codedhruv08/LeetCode/tree/master/0486-predict-the-winner) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/codedhruv08/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/codedhruv08/LeetCode/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/codedhruv08/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/codedhruv08/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -264,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codedhruv08/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/codedhruv08/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/codedhruv08/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/codedhruv08/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
