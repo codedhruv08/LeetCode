@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/codedhruv08/LeetCode/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/codedhruv08/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/codedhruv08/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/codedhruv08/LeetCode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/codedhruv08/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/codedhruv08/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -262,4 +263,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codedhruv08/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/codedhruv08/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/codedhruv08/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
