@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codedhruv08/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/codedhruv08/LeetCode/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/codedhruv08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/codedhruv08/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/codedhruv08/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/codedhruv08/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/codedhruv08/LeetCode/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/codedhruv08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/codedhruv08/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codedhruv08/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/codedhruv08/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/codedhruv08/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/codedhruv08/LeetCode/tree/master/0242-valid-anagram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codedhruv08/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/codedhruv08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1927-sum-game](https://github.com/codedhruv08/LeetCode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codedhruv08/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codedhruv08/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codedhruv08/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/codedhruv08/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/codedhruv08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/codedhruv08/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/codedhruv08/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -267,4 +272,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/codedhruv08/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/codedhruv08/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/codedhruv08/LeetCode/tree/master/0078-subsets) |
+| [1096-brace-expansion-ii](https://github.com/codedhruv08/LeetCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
