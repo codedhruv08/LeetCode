@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/codedhruv08/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/codedhruv08/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/codedhruv08/LeetCode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/codedhruv08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/codedhruv08/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/codedhruv08/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/codedhruv08/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codedhruv08/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/codedhruv08/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/codedhruv08/LeetCode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/codedhruv08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1096-brace-expansion-ii](https://github.com/codedhruv08/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/codedhruv08/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/codedhruv08/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/codedhruv08/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/codedhruv08/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/codedhruv08/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/codedhruv08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/codedhruv08/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/codedhruv08/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codedhruv08/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/codedhruv08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codedhruv08/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
