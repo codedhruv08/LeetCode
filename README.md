@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/codedhruv08/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codedhruv08/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/codedhruv08/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/codedhruv08/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/codedhruv08/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/codedhruv08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/codedhruv08/LeetCode/tree/master/0739-daily-temperatures) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/codedhruv08/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codedhruv08/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/codedhruv08/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/codedhruv08/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/codedhruv08/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/codedhruv08/LeetCode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/codedhruv08/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
