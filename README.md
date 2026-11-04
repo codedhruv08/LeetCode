@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/codedhruv08/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/codedhruv08/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/codedhruv08/LeetCode/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/codedhruv08/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/codedhruv08/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/codedhruv08/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codedhruv08/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/codedhruv08/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/codedhruv08/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/codedhruv08/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/codedhruv08/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/codedhruv08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/codedhruv08/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/codedhruv08/LeetCode/tree/master/0735-asteroid-collision) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/codedhruv08/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/codedhruv08/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codedhruv08/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codedhruv08/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/codedhruv08/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/codedhruv08/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/codedhruv08/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/codedhruv08/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
