@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/codedhruv08/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/codedhruv08/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codedhruv08/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/codedhruv08/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codedhruv08/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/codedhruv08/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/codedhruv08/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/codedhruv08/LeetCode/tree/master/1927-sum-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/codedhruv08/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codedhruv08/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/codedhruv08/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/codedhruv08/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codedhruv08/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/codedhruv08/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/codedhruv08/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/codedhruv08/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/codedhruv08/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/codedhruv08/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/codedhruv08/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/codedhruv08/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
